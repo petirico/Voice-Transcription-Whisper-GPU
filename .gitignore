@@ -1,5 +1,6 @@
 # Environnements virtuels Python
 .venv/
+__pycache__/
 
 # Fichiers de modèles Whisper
 *.pt
