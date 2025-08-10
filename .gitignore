@@ -1,0 +1,7 @@
+# Environnements virtuels Python
+.venv/
+
+# Fichiers de modèles Whisper
+*.pt
+
+
